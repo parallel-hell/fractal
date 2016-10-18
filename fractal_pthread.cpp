@@ -75,6 +75,9 @@ int main(int argc, char *argv[])
 	for (thread = 0; thread < thread_count-1; thread++)
 		pthread_join(thread_handles[thread], NULL);
 
+	// #9 master must call same function
+	workerThreads((void*) (thread_count-1));
+
   // end time
   gettimeofday(&end, NULL);
   double runtime = end.tv_sec + end.tv_usec / 1000000.0 - start.tv_sec - start.tv_usec / 1000000.0;
