@@ -1,0 +1,73 @@
+Fractal v1.5 [pthread]
+computing 30 frames of 250 by 250 fractal on 1 threads
+compute time: 1.0337 s
+Fractal v1.5 [pthread]
+computing 30 frames of 250 by 250 fractal on 2 threads
+compute time: 1.0340 s
+Fractal v1.5 [pthread]
+computing 30 frames of 250 by 250 fractal on 4 threads
+compute time: 0.5500 s
+Fractal v1.5 [pthread]
+computing 30 frames of 250 by 250 fractal on 8 threads
+compute time: 0.2752 s
+Fractal v1.5 [pthread]
+computing 30 frames of 250 by 250 fractal on 16 threads
+compute time: 0.1725 s
+Fractal v1.5 [pthread]
+computing 30 frames of 250 by 250 fractal on 32 threads
+compute time: 0.1105 s
+Fractal v1.5 [pthread]
+computing 60 frames of 250 by 250 fractal on 1 threads
+compute time: 2.0279 s
+Fractal v1.5 [pthread]
+computing 60 frames of 250 by 250 fractal on 2 threads
+compute time: 2.0290 s
+Fractal v1.5 [pthread]
+computing 60 frames of 250 by 250 fractal on 4 threads
+compute time: 1.0112 s
+Fractal v1.5 [pthread]
+computing 60 frames of 250 by 250 fractal on 8 threads
+compute time: 0.5372 s
+Fractal v1.5 [pthread]
+computing 60 frames of 250 by 250 fractal on 16 threads
+compute time: 0.3264 s
+Fractal v1.5 [pthread]
+computing 60 frames of 250 by 250 fractal on 32 threads
+compute time: 0.2043 s
+Fractal v1.5 [pthread]
+computing 30 frames of 500 by 500 fractal on 1 threads
+compute time: 4.1152 s
+Fractal v1.5 [pthread]
+computing 30 frames of 500 by 500 fractal on 2 threads
+compute time: 4.1182 s
+Fractal v1.5 [pthread]
+computing 30 frames of 500 by 500 fractal on 4 threads
+compute time: 2.1913 s
+Fractal v1.5 [pthread]
+computing 30 frames of 500 by 500 fractal on 8 threads
+compute time: 1.0957 s
+Fractal v1.5 [pthread]
+computing 30 frames of 500 by 500 fractal on 16 threads
+compute time: 0.6651 s
+Fractal v1.5 [pthread]
+computing 30 frames of 500 by 500 fractal on 32 threads
+compute time: 0.4261 s
+Fractal v1.5 [pthread]
+computing 60 frames of 500 by 500 fractal on 1 threads
+compute time: 8.0962 s
+Fractal v1.5 [pthread]
+computing 60 frames of 500 by 500 fractal on 2 threads
+compute time: 8.1002 s
+Fractal v1.5 [pthread]
+computing 60 frames of 500 by 500 fractal on 4 threads
+compute time: 4.0369 s
+Fractal v1.5 [pthread]
+computing 60 frames of 500 by 500 fractal on 8 threads
+compute time: 2.1441 s
+Fractal v1.5 [pthread]
+computing 60 frames of 500 by 500 fractal on 16 threads
+compute time: 1.2027 s
+Fractal v1.5 [pthread]
+computing 60 frames of 500 by 500 fractal on 32 threads
+compute time: 0.8085 s
+Mon Oct 17 21:54:07 CDT 2016
